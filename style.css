@@ -1,0 +1,150 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* end reset style */
+div{
+	display: block;
+	border: 1px solid red;
+}
+
+
+/* header */
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+header>div,
+nav {
+	align-items: center;
+	padding: 0 16px;
+	width: 100%;
+}
+.container{
+	display: flex;
+	background: rgb(180, 142, 142);
+	height: 80px;
+}
+.material-icons{
+	justify-content: center;
+}
+.logo{
+	height: 24px;
+	width: 129px;
+}
+.logo img{
+	width: 78px;
+	margin-top: 3px;
+	margin-left: 1px;
+}
+.search{
+	width: 455px;
+	justify-content: center;
+	margin: 0 40px;
+}
+form {
+	display: flex;
+	height: 30px;
+
+}
+.container-form {
+	background-color: red;
+	padding: 2px 6px;
+	border-radius: 2px 0 0 2px;
+	width: 100%;
+
+}
+.container-form2 {
+	height: 24px;
+    background: transparent;
+	width: 100%;
+}
+#container-icon {
+	position: relative;
+	line-height: 24px;
+	vertical-align: top;
+	font-size: 16px;
+	padding: 0 2px;
+	width: 100%;
+}
+.container-icon2 {
+	float: right;
+}
+.button-right {
+	display: flex;
+}
+.btn {
+	margin: 5px;
+}
+/*    left-side  */
+main {
+	display: flex;
+	margin-top: 100px;
+	width: 100%;
+}
+.video-likes-dislakes {
+	display: flex;
+	justify-content: flex-end;
+}
+.user-logo {
+	border-radius: 50%;
+}
+.header-description,
+.small-video {
+	display: flex;
+	flex-direction: row;
+}
+.published,
+.container-description {
+	flex-direction: column;
+}
+.content {
+	width: 680px;
+}
