@@ -3,7 +3,7 @@
 Project-Oksana-Petrova
 
 In this project I need to build  an HTML document that matches the appearance of youtube video player page as this example.
-![http://archive.ph/Bss88/image](figures/logo.png)
+![alt tag](http://archive.ph/Bss88/imagem/path/to/img.png "Example")
 
 ### Built with
 - HTML
