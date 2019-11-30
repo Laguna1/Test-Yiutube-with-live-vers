@@ -3,7 +3,7 @@
 Project-Oksana-Petrova
 
 In this project I need to build  an HTML document that matches the appearance of youtube video player page as this example.
-![Example](/images/logo.png)
+![Example](http://archive.ph/Bss88/image)
 
 ## BUILT WITH
 *  HTML
@@ -11,9 +11,9 @@ In this project I need to build  an HTML document that matches the appearance of
 
 
 
-*  header include search form
-*  main include left sidebar with the main video and right part with recommended video
+-  header include search form
+-  main include left sidebar with the main video and right part with recommended video
           for video we use HTML teg <iframe>
-*  footer
+-  footer
 
 ### live version of project [youtube](https://laguna1.github.io/Test-Yiutube-with-live-vers/)
