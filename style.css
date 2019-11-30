@@ -119,6 +119,7 @@ form {
 }
 .button-right {
 	display: flex;
+	margin-left: 125px;
 }
 .btn {
 	margin: 5px;
