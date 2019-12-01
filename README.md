@@ -24,8 +24,8 @@ youtube video player page as this example.
 
 
 ### Autor
- - Github: ! [Laguna1](https://github.com/Laguna1
- - Linkedin: ! [Oksana Petrova](https://www.linkedin.com/in/oksana-petrova-005bb0145/)
+ - Github: [@Laguna1](https://github.com/Laguna1
+ - Linkedin: [Oksana Petrova](https://www.linkedin.com/in/oksana-petrova-005bb0145/)
 
 
 
