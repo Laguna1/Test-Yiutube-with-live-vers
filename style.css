@@ -50,7 +50,7 @@ table {
 /* end reset style */
 div{
 	display: block;
-	border: 1px solid red;
+/*	border: 1px solid red; */
 }
 
 
@@ -69,7 +69,7 @@ nav {
 }
 .container{
 	display: flex;
-	background: rgb(180, 142, 142);
+	background: hsl(0, 9%, 98%);
 	height: 80px;
 }
 .material-icons{
@@ -85,17 +85,22 @@ nav {
 	margin-left: 1px;
 }
 .search{
-	width: 455px;
+	width: 336px;
 	justify-content: center;
-	margin: 0 40px;
+	margin: 0 100px;
 }
 form {
 	display: flex;
 	height: 30px;
-
+	width: 585px;
 }
+input {
+	width: 100%;
+	height: 24px;
+}
+
 .container-form {
-	background-color: red;
+/*	background-color: red; */
 	padding: 2px 6px;
 	border-radius: 2px 0 0 2px;
 	width: 100%;
@@ -112,6 +117,7 @@ form {
 	vertical-align: top;
 	font-size: 16px;
 	padding: 0 2px;
+	margin-top: -2px;
 	width: 100%;
 }
 .container-icon2 {
@@ -119,7 +125,7 @@ form {
 }
 .button-right {
 	display: flex;
-	margin-left: 125px;
+	margin-left: 290px;
 }
 .btn {
 	margin: 5px;
@@ -129,6 +135,9 @@ main {
 	display: flex;
 	margin-top: 100px;
 	width: 100%;
+}
+.left-side {
+margin-right: 30px;
 }
 .video-likes-dislakes {
 	display: flex;
@@ -141,10 +150,12 @@ main {
 .small-video {
 	display: flex;
 	flex-direction: row;
+	margin-bottom: 5px;
 }
 .published,
 .container-description {
 	flex-direction: column;
+	padding-left: 15px;
 }
 .content {
 	width: 680px;
