@@ -123,6 +123,12 @@ input {
 .container-icon2 {
 	float: right;
 }
+.subscribed {
+	background-color:  #b0a8a8;
+}
+
+
+
 .button-right {
 	display: flex;
 	margin-left: 290px;
@@ -146,9 +152,13 @@ margin-right: 30px;
 .user-logo {
 	border-radius: 50%;
 }
+.last {
+display: flex;
+}
 .header-description,
 .small-video {
 	display: flex;
+	justify-content: space-between;
 	flex-direction: row;
 	margin-bottom: 5px;
 }
