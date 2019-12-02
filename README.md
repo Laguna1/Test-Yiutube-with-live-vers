@@ -5,7 +5,10 @@ Project-Oksana-Petrova
 In this project I need to build  an HTML 
 document that matches the appearance of 
 youtube video player page as this example.
+
+
   ![Example](https://archive.ph/Bss88/439986f8be5041ce0ca4c31a1935d39c885b22c6/scr.png)
+  
   
   #### 
 
