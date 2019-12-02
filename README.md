@@ -9,8 +9,8 @@ youtube video player page as this example.
   
   #### 
 
-  -  header include search logo in the leftmost part, form at the center 
-     part and three icons in te rightmost part of header
+  -  header include search logo in the leftmost part, form at the  
+  center part and three icons in te rightmost part of header  
   -  main include left sidebar with the main video
   -  and right part with recommended video
   -  for video we use HTML teg <iframe>
